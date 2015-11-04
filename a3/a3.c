@@ -40,7 +40,6 @@ int main(void)
 	//Oberflaeche berechnen, abspeichern & ausgeben
 	result = CalcOberfl(pi,r,h);
 	printf("Die Oberflaeche des Zylinders:\t  %.2f cm^2\n",result);
-	
-	getchar();
+
 	return 0;
 }
