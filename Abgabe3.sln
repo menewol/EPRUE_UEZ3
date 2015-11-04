@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a1", "a1\a1.vcxproj", "{35AAD1B9-EB7C-49A4-91CA-E3C5F31472D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a2", "a2\a2.vcxproj", "{C03E7402-74C3-401E-A369-C8385D0E7E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35AAD1B9-EB7C-49A4-91CA-E3C5F31472D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35AAD1B9-EB7C-49A4-91CA-E3C5F31472D4}.Debug|Win32.Build.0 = Debug|Win32
+		{35AAD1B9-EB7C-49A4-91CA-E3C5F31472D4}.Release|Win32.ActiveCfg = Release|Win32
+		{35AAD1B9-EB7C-49A4-91CA-E3C5F31472D4}.Release|Win32.Build.0 = Release|Win32
+		{C03E7402-74C3-401E-A369-C8385D0E7E8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C03E7402-74C3-401E-A369-C8385D0E7E8D}.Debug|Win32.Build.0 = Debug|Win32
+		{C03E7402-74C3-401E-A369-C8385D0E7E8D}.Release|Win32.ActiveCfg = Release|Win32
+		{C03E7402-74C3-401E-A369-C8385D0E7E8D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
