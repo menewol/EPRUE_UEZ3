@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C03E7402-74C3-401E-A369-C8385D0E7E8D}</ProjectGuid>
-    <RootNamespace>a2</RootNamespace>
+    <ProjectGuid>{106A579F-AC9A-4AFD-8D10-9DAC1CBCEF7A}</ProjectGuid>
+    <RootNamespace>a3</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -65,7 +65,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="a2.c" />
+    <ClCompile Include="a3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
