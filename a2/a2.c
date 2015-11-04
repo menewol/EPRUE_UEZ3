@@ -8,9 +8,9 @@
 int main(void)
 {
 	printf("Berechnungen im Einheitskreis:\n\n");
+	printf("------------------------------\nPi = %f\t r = %d\n------------------------------\n",PI,R);
 	printf("U = 2 * r * PI = %f\n",CALC_PERIMETER(R));
 	printf("A = PI * r * r = %f\n",CALC_SURFACE(R));
 
-	getchar();
 	return 0;
 }
