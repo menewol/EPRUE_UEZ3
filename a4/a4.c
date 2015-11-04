@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	char z1,z2,output;
+	char z1, z2, z3, output;
 
 	/*	16 AND 23
 	*	16: 0001 0000
@@ -43,6 +43,23 @@ int main(void)
 	z2 = 2;
 	output = z1 >> z2;
 	printf("16 RIGHTSHIFT 2 = %d\n", output);
+	
+	/*	23 LEFTSHIFT (23 RIGHTSHIFT 3)
+	*
+	*/
+	z1 = 23;
+	z2 = 3;
+	output = (z1 << (z1 >> z2));
+	//printf
+
+	/*	(23 RIGHTSHIFT 2) AND (16 OR (NOT 12))
+	*
+	*/
+	z1 = 23;
+	z2 = 16;
+	z3 = 12;
+	output = (23 >> 2) & (z2 | (~z3));
+	//printf
 
 	getchar();
 	return 0;
