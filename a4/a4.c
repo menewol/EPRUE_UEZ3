@@ -42,3 +42,13 @@ int main(void)
 
 	return 0;
 }
+
+/*	Antwort zu Frage 4b:
+*	
+*	Normal	Binär
+*	n*2		n<<1
+*	n/2		n>>1
+*	n*2^k	n<<k
+*	n/2^k	n>>k
+*	n%2		n&1
+*/
