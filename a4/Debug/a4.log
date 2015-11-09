@@ -1,4 +1,4 @@
-﻿Der Buildvorgang wurde am 07.11.2015 18:15:38 gestartet.
+﻿Der Buildvorgang wurde am 09.11.2015 11:29:40 gestartet.
      1>Projekt "C:\Users\WOLFGANG\Documents\GitHub\EPRUE_UEZ3\a4\a4.vcxproj" auf Knoten "2", Build Ziel(e).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt a4.c
@@ -10,4 +10,4 @@
 
 Build erfolgreich.
 
-Verstrichene Zeit 00:00:00.69
+Verstrichene Zeit 00:00:00.46
